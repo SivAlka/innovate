@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T14:27:02.041Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="M5VGWM70xhG_K-4kxGky" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T14:42:35.743Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="N-MeCHCODReMb2UprKv5" version="21.3.2" type="github">
   <diagram name="Page-1" id="5oQk0iP3RECzhw_weiLr">
-    <mxGraphModel dx="1804" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1804" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,6 +75,15 @@
         </mxCell>
         <mxCell id="K4JY0bpXvLPc-Nu10CoG-3" value="Audit reporting" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;direction=south;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="680" y="320" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K4JY0bpXvLPc-Nu10CoG-6" value="CAES" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="60" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="K4JY0bpXvLPc-Nu10CoG-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1.03;entryY=0.57;entryDx=0;entryDy=0;exitX=-0.016;exitY=0.616;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="pcHelcg1O1OIMG8Py_eO-7" target="K4JY0bpXvLPc-Nu10CoG-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="170" as="sourcePoint" />
+            <mxPoint x="70" y="120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
