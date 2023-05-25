@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-21T01:42:51.174Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="aEX0ITr2hGenzJur9hlL" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T15:46:29.916Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="bh7vmghvElGhvNIuyfQJ" version="21.3.2" type="github">
   <diagram name="Page-1" id="wnrHIdruKklxKll4JgNz">
     <mxGraphModel dx="954" dy="1570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="Npw1RuFwo9IliVPyghso-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" parent="1" source="Npw1RuFwo9IliVPyghso-2" target="Npw1RuFwo9IliVPyghso-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Npw1RuFwo9IliVPyghso-2" value="Oracle Smart Contract" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Npw1RuFwo9IliVPyghso-2" value="Oracles Smart Contract" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="280" y="70" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Npw1RuFwo9IliVPyghso-12" value="Step1: create job" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#0000FF;fontStyle=3" parent="1" vertex="1">
@@ -81,7 +81,7 @@
           <mxGeometry x="100" y="190" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Npw1RuFwo9IliVPyghso-61" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#E07A5F;fontColor=#393C56;fillColor=none;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="265" y="28" width="345" height="200" as="geometry" />
+          <mxGeometry x="260" y="28" width="345" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Npw1RuFwo9IliVPyghso-62" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -98,7 +98,7 @@
         <mxCell id="Npw1RuFwo9IliVPyghso-69" value="Blockchain environment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="340" y="-2" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tVTisNSIiJWV0kx1MQIW-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;strokeColor=#E07A5F;fontColor=#393C56;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="tVTisNSIiJWV0kx1MQIW-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;strokeColor=#E07A5F;fontColor=#393C56;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="265" width="220" height="170" as="geometry" />
         </mxCell>
       </root>
